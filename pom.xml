@@ -67,4 +67,11 @@
 
     </dependencies>
 
+    <repositories>
+        <repository>
+            <id>dmp-maven-public</id>
+            <url>https://nexus.daocloud.io/repository/dmp-maven-public/</url>
+        </repository>
+    </repositories>
+
 </project>
